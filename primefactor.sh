@@ -1,8 +1,8 @@
 read -p "enter a number " n;
 
-i=2
-count=0
-flag=0
+i=2;
+count=0;
+flag=0;
 
 for ((i;i<$n;));
 do
